@@ -50,6 +50,10 @@ export default {
         {left: 70, top: 80},
         {left: 85, top: 82},
         {left: 96, top: 104},
+        {left: 108, top: 115}, 
+        {left: 115, top: 128},
+        {left: 127, top: 135},
+        {left: 138, top: 145},
       ],
       robotLine: [
         {
@@ -75,6 +79,30 @@ export default {
           headPosTop: 86,
           bodyPosLeft: 96,
           bodyPosTop: 104,
+        },
+        {
+          headPosLeft: 100,
+          headPosTop: 108,
+          bodyPosLeft: 108,
+          bodyPosTop: 115,
+        },
+        {
+          headPosLeft: 112,
+          headPosTop: 119,
+          bodyPosLeft: 115,
+          bodyPosTop: 128,
+        },
+        {
+          headPosLeft: 119,
+          headPosTop: 132,
+          bodyPosLeft: 127,
+          bodyPosTop: 135,
+        },
+        {
+          headPosLeft: 131,
+          headPosTop: 139,
+          bodyPosLeft: 138,
+          bodyPosTop: 145,
         },
       ]
     };
