@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <demo-multi-circle />
+    <demo-circle-line />
   </div>
 </template>
 
 <script>
-import DemoMultiCircle from './components/DemoMultiCircle.vue'
+import DemoCircleLine from './components/DemoCircleLine.vue'
 
 export default {
   name: 'App',
   components: {
-    DemoMultiCircle
+    DemoCircleLine
   }
 }
 </script>
